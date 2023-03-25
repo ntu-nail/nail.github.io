@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 Welcome to NAIL
       content: Take a look at what we're working on...
       align: center
       background:
@@ -23,6 +23,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: hive_5.jpg
+        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: right
