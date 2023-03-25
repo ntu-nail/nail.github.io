@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: hive.jpg
+        media: coders.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
@@ -30,15 +30,15 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: scse.jpg
-    - title: The Stars Our Destination
-      content: 'Let's witness together!'
+        media: contact.jpg
+    - title: World-Class Semiconductor Lab
+      content: 'Just opened last month!'
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: group.jpg
+        media: welcome.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
