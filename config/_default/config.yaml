@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://ntu-nail.github.io/new_page' # Website URL
+title: NTU NAIL # Website name
+baseURL: 'https://ntu-nail.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
