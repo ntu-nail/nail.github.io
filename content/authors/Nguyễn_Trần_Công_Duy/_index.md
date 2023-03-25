@@ -18,10 +18,10 @@ organizations:
     url: 'https://www.ntu.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: [TODO] Nguyễn Trần Công Duy
+bio: TODO Nguyễn Trần Công Duy
 
 interests:
-  - [TODO] Nguyễn Trần Công Duy
+  - TODO Nguyễn Trần Công Duy
 
 # education:
 #   courses:
@@ -68,4 +68,4 @@ user_groups:
   - Researchers
 ---
 
-[TODO] Nguyễn Trần Công Duy
+TODO Nguyễn Trần Công Duy
