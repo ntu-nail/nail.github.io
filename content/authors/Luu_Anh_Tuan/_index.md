@@ -1,25 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Luu Anh Tuan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Nanyang Technological University
+    url: 'https://www.ntu.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lie in the intersection of **Artificial Intelligence** and **Natural Language Processing**.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
 
 education:
   courses:
@@ -40,16 +39,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:anhtuan.luu@ntu.edu.sg'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.sg/citations?hl=en&user=d6ixOGYAAAAJ&view_op=list_works
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/tuanluu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,9 +64,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am Luu Anh Tuan, an Assistant Professor at School of Computer Science and Engineering, Nanyang Technological University. Before that, I was a postdoctoral fellow at MIT CSAIL and a member of the Natural Language Processing group under the supervision of Prof. Regina Barzilay from 2018 to 2020. I obtained Ph.D. degree in computer engineering from Nanyang Technological University in 2016. From 2016 to 2018, I was a research scientist at Institute for Infocomm Research, Singapore in the Natural Language Processing group of Dr. Jian Su.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests lie in the intersection of Artificial Intelligence and Natural Language Processing with the focus on applications of pretrained language models, semantics, question & answering, information extraction and knowledge construction, robustness & trustworthy AI, and recommendation systems.
