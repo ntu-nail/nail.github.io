@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: scse.jpg
+        media: ntu_building.jpg
     - title: 'The Stars, Our Destination'
       content: "Let's witness together!"
       align: left
