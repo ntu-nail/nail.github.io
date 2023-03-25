@@ -42,7 +42,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:mingzhe001@e.ntu.edu.sg'
-  - icon: browser
+  - icon: house
     icon_pack: fas
     link: 'https://elfsong.github.io/'
   - icon: twitter
