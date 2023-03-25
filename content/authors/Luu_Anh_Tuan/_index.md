@@ -40,7 +40,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:anhtuan.luu@ntu.edu.sg'
-  - icon: envelope
+  - icon: house
     icon_pack: fas
     link: 'https://tuanluu.github.io/'
   - icon: twitter
@@ -52,6 +52,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/tuanluu
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
