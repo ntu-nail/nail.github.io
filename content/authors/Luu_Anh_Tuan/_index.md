@@ -40,6 +40,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:anhtuan.luu@ntu.edu.sg'
+  - icon: browser
+    icon_pack: fas
+    link: 'https://tuanluu.github.io/'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/

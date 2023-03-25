@@ -42,6 +42,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:mingzhe001@e.ntu.edu.sg'
+  - icon: browser
+    icon_pack: fas
+    link: 'https://elfsong.github.io/'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/spirit__song
