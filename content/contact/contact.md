@@ -47,5 +47,3 @@ content:
 design:
   columns: '1'
 ---
-
-Nice to meet you!
