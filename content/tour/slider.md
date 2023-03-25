@@ -22,7 +22,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.7
-        media: hive_2.jpg
+        media: hive_4.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: right
@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: ntu_building.jpg
+        media: hive_3.jpg
     - title: 'The Stars, Our Destination'
       content: "Let's witness together!"
       align: left
