@@ -22,7 +22,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.7
-        media: hive_4.jpg
+        media: hive_5.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: right
