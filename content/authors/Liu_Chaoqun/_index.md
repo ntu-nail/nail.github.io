@@ -18,19 +18,20 @@ organizations:
     url: 'https://www.ntu.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO Liu Chaoqun
+bio: Hi! I am I am currently under a joint PhD programme between Alibaba DAMO Academy and Nanyang Technological University, Singapore. Before that, I got my Master of Engineering degree and Bachelor of Engineering degree with First Class Honours at Nanyang Technological University, Singapore.
 
 interests:
-  - TODO Liu Chaoqun
+  - Natural Language Processing
+  - Deep Learning
 
-# education:
-#   courses:
-#     - course: MEng of Information Technology
-#       institution: The University of Melbourne
-#       year: 2019
-#     - course: BSc in Information Security
-#       institution: Central South University
-#       year: 2017
+education:
+  courses:
+    - course: Master of Engineering
+      institution: Nanyang Technological University
+      year: 2022
+    - course: Bachelor of Engineering (First Class Honours)
+      institution: Nanyang Technological University
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,12 +47,12 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/spirit__song
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=CJHW1IgAAAAJ&hl=zh-CN
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/Elfsong
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=oKL6xrcAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/liuchaoqun
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
