@@ -16,7 +16,7 @@ role: PhD Student
 organizations:
   - name: Nanyang Technological University
     url: 'https://www.ntu.edu.sg/'
-  - name: Xi'an Jiaotong University,
+  - name: Xi'an Jiaotong University
     url: 'http://en.xjtu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
