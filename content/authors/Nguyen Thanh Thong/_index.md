@@ -14,8 +14,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Nanyang Technological University
-    url: 'https://www.ntu.edu.sg/'
+  - name: National University of Singapore
+    url: 'https://www.nus.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Thong Nguyen is a PhD student at National University of Singapore, advised by Asst. Prof. Anh-Tuan Luu and Prof. See-Kiong Ng.

@@ -14,8 +14,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Nanyang Technological University
-    url: 'https://www.ntu.edu.sg/'
+  - name: National University of Singapore
+    url: 'https://www.nus.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student in NUS IDS&SoC work with Bryan Hooi and Luu Anh Tuan(NTU).
