@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.ntu.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in NUS IDS&SoC work with Bryan Hooi and Luu Anh Tuan(NTU). Meanwhile, I am visisting UCL WI group cooperating with Aldo Lipani. Previously, I worked as a R&D engineer in natural language processing working with Prof. Zhang Richong, affiliated with BDBC and Computer Science College in Beihang University. My current research interests lie in Text Generation, Dialogue System and LLM.
+bio: I am a PhD student in NUS IDS&SoC work with Bryan Hooi and Luu Anh Tuan(NTU).
 
 interests:
   - Text Generation
@@ -70,4 +70,4 @@ user_groups:
   - Researchers
 ---
 
-TODO Hu Zhiyuan
+I am a PhD student in NUS IDS&SoC work with Bryan Hooi and Luu Anh Tuan(NTU). Meanwhile, I am visisting UCL WI group cooperating with Aldo Lipani. Previously, I worked as a R&D engineer in natural language processing working with Prof. Zhang Richong, affiliated with BDBC and Computer Science College in Beihang University. My current research interests lie in Text Generation, Dialogue System and LLM.

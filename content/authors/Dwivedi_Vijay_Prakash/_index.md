@@ -18,9 +18,7 @@ organizations:
     url: 'https://www.ntu.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in Machine Learning at Nanyang Technological University, Singapore being supervised by Prof. Luu Anh Tuan (NTU) and Prof. Xavier Bresson (NUS). My primary interest is in developing deep learning algorithms and architectures on graph-structured data and exploring their applications in computational science applications.
-
-Before starting my PhD, I worked with Prof. Bresson as a Research Assistant in the same lab. I have a background in Computer Science and Engineering (B.Tech.) from MNNIT Allahabad where I explored the fields of Natural Language Processing and Multi-Modal Computing.
+bio: I am a PhD student in Machine Learning at Nanyang Technological University, Singapore being supervised by Prof. Luu Anh Tuan (NTU) and Prof. Xavier Bresson (NUS).
 
 interests:
   - Machine Learning
@@ -68,4 +66,6 @@ user_groups:
   - Researchers
 ---
 
-TODO Dwivedi Vijay Prakash
+I am a PhD student in Machine Learning at Nanyang Technological University, Singapore being supervised by Prof. Luu Anh Tuan (NTU) and Prof. Xavier Bresson (NUS). My primary interest is in developing deep learning algorithms and architectures on graph-structured data and exploring their applications in computational science applications. 
+
+Before starting my PhD, I worked with Prof. Bresson as a Research Assistant in the same lab. I have a background in Computer Science and Engineering (B.Tech.) from MNNIT Allahabad where I explored the fields of Natural Language Processing and Multi-Modal Computing.

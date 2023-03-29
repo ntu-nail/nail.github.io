@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.ntu.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi! I am I am currently under a joint PhD programme between Alibaba DAMO Academy and Nanyang Technological University, Singapore. Before that, I got my Master of Engineering degree and Bachelor of Engineering degree with First Class Honours at Nanyang Technological University, Singapore.
+bio: I am currently under a joint PhD programme between Alibaba DAMO Academy and Nanyang Technological University, Singapore.
 
 interests:
   - Natural Language Processing
@@ -69,4 +69,4 @@ user_groups:
   - Researchers
 ---
 
-TODO Liu Chaoqun
+Hi! I am currently under a joint PhD programme between Alibaba DAMO Academy and Nanyang Technological University, Singapore. Before that, I got my Master of Engineering degree and Bachelor of Engineering degree with First Class Honours at Nanyang Technological University, Singapore.
