@@ -16,6 +16,8 @@ role: PhD Student
 organizations:
   - name: Nanyang Technological University
     url: 'https://www.ntu.edu.sg/'
+  - name: National University of Singapore
+    url: 'https://www.nus.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mingzhe has concentrated his research efforts on natural language processing (NLP) and its associated downstream tasks.
