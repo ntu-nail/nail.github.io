@@ -44,16 +44,16 @@ social:
     link: 'mailto:weijie_xjtu@stu.xjtu.edu.cn'
   # - icon: house
   #   icon_pack: fas
-  #   link: 'https://vijaydwivedi.com.np'
+  #   link: https://github.com/Janie1996
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/spirit__song
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=CJHW1IgAAAAJ&hl=zh-CN
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/Elfsong
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=zh-CN&user=mJIoa64AAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Janie1996
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
