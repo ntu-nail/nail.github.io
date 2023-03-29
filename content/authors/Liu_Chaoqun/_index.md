@@ -28,10 +28,10 @@ education:
   courses:
     - course: Master of Engineering
       institution: Nanyang Technological University
-      year: 2022
+      year: 2018
     - course: Bachelor of Engineering (First Class Honours)
       institution: Nanyang Technological University
-      year: 2018
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
