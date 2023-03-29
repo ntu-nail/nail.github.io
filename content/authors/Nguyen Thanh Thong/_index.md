@@ -18,19 +18,20 @@ organizations:
     url: 'https://www.ntu.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO Nguyen Thanh Thong
+bio: Thong Nguyen is a PhD student at National University of Singapore, advised by Asst. Prof. Anh-Tuan Luu and Prof. See-Kiong Ng.
 
 interests:
-  - TODO Nguyen Thanh Thong
+  - Language Representation Learning
+  - Natural Language Generation
+  - Multimodal Learning
+  - Topic Modeling
 
-# education:
-#   courses:
-#     - course: MEng of Information Technology
-#       institution: The University of Melbourne
-#       year: 2019
-#     - course: BSc in Information Security
-#       institution: Central South University
-#       year: 2017
+education:
+  courses:
+    - course: BSc in Computer Science (Valedictorian, Honor Program)
+      institution: Ho Chi Minh city University of Technology
+      year: 2021
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,15 +44,15 @@ social:
   - icon: house
     icon_pack: fas
     link: 'https://nguyentthong.github.io/'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/spirit__song
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=CJHW1IgAAAAJ&hl=zh-CN
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/Elfsong
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/thongnguyen5999
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=C2zb0lkAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/nguyentthong
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -68,4 +69,4 @@ user_groups:
   - Researchers
 ---
 
-TODO Nguyen Thanh Thong
+Thong Nguyen is a PhD student at National University of Singapore, advised by Asst. Prof. Anh-Tuan Luu and Prof. See-Kiong Ng. Currently, his research interests are Natural Language Processing, particularly Language Representation Learning, Natural Language Generation, and Topic Modeling.
