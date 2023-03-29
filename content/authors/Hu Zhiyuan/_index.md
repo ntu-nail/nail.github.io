@@ -18,10 +18,12 @@ organizations:
     url: 'https://www.ntu.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO Hu Zhiyuan
+bio: I am a PhD student in NUS IDS&SoC work with Bryan Hooi and Luu Anh Tuan(NTU). Meanwhile, I am visisting UCL WI group cooperating with Aldo Lipani. Previously, I worked as a R&D engineer in natural language processing working with Prof. Zhang Richong, affiliated with BDBC and Computer Science College in Beihang University. My current research interests lie in Text Generation, Dialogue System and LLM.
 
 interests:
-  - TODO Hu Zhiyuan
+  - Text Generation
+  - Dialogue System
+  - Large Language Models
 
 # education:
 #   courses:
@@ -46,12 +48,12 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/spirit__song
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=CJHW1IgAAAAJ&hl=zh-CN
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/Elfsong
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=gQ1t5EUAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/zhiyuanhubj
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
