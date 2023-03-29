@@ -18,19 +18,19 @@ organizations:
     url: 'https://www.ntu.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO Dwivedi Vijay Prakash
+bio: I am a PhD student in Machine Learning at Nanyang Technological University, Singapore being supervised by Prof. Luu Anh Tuan (NTU) and Prof. Xavier Bresson (NUS). My primary interest is in developing deep learning algorithms and architectures on graph-structured data and exploring their applications in computational science applications.
+
+Before starting my PhD, I worked with Prof. Bresson as a Research Assistant in the same lab. I have a background in Computer Science and Engineering (B.Tech.) from MNNIT Allahabad where I explored the fields of Natural Language Processing and Multi-Modal Computing.
 
 interests:
-  - TODO Dwivedi Vijay Prakash
+  - Machine Learning
+  - Deep Learning on Graphs
 
-# education:
-#   courses:
-#     - course: MEng of Information Technology
-#       institution: The University of Melbourne
-#       year: 2019
-#     - course: BSc in Information Security
-#       institution: Central South University
-#       year: 2017
+education:
+  courses:
+    - course: Bachelor of Technology (BTech)
+      institution: Motilal Nehru National Institute of Technology (MNNIT), Allahabad
+      year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,15 +43,15 @@ social:
   - icon: house
     icon_pack: fas
     link: 'https://vijaydwivedi.com.np'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/spirit__song
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=CJHW1IgAAAAJ&hl=zh-CN
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/Elfsong
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/vijaypradwi
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=8MS7iC0AAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/vijaydwivedi75
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
