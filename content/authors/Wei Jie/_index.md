@@ -18,10 +18,12 @@ organizations:
     url: 'https://www.ntu.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO Wei Jie
+bio: Wei Jie is a PhD student at the School of Computer Science and Technology, Xi'an Jiaotong University, supervised by Prof. Yang Xinyu.
 
 interests:
-  - TODO Wei Jie
+  - Artificial Intelligence
+  - Affective Computing
+  - Multimodal Analaysis
 
 # education:
 #   courses:
@@ -68,4 +70,4 @@ user_groups:
   - Researchers
 ---
 
-TODO Wei Jie
+Wei Jie is a PhD student at the School of Computer Science and Technology, Xi'an Jiaotong University, supervised by Prof. Yang Xinyu. She is also a visiting student at the School of Computer Science and Engineering, Nanyang Technological University, supervised by Prof. Luu Anh Tuan. Her current research interests are multimodal emotion recognition, including speech and conversation emotion recognition, facial expression, body gesture, and multimodal fusion.
