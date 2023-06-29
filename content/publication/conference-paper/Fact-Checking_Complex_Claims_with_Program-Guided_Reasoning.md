@@ -27,9 +27,6 @@ tags:
   - Source Themes
 featured: true
 
-links:
-  - name: Custom Link
-    url: http://example.org
 url_pdf: https://arxiv.org/abs/2305.12744
 url_code: '#'
 url_dataset: '#'
