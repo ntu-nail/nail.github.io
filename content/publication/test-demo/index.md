@@ -3,7 +3,13 @@ title: Fact-Checking Complex Claims with Program-Guided Reasoning
 publication_types:
   - "1"
 authors:
+  - Liangming Pan
+  - Xiaobao_Wu
+  - Xinyuan Lu
   - Luu_Anh_Tuan
+  - William Yang Wang
+  - Min-Yen Kan
+  - Preslav Nakov
 publication: "Association for Computational Linguistics "
 publication_short: ACL
 abstract: Fact-checking real-world claims often requires collecting multiple
