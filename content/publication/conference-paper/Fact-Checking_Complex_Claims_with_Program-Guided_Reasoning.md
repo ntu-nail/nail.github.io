@@ -31,11 +31,10 @@ publication_short: In *ACL*
 url_source: ""
 url_video: "#"
 doi: ""
-projects:
-  - internal-project
-date: 2013-07-01T00:00:00Z
+projects: []
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2023-01-01T00:00:00Z
+publishDate: 2023-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 ---
