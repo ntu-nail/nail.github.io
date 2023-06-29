@@ -30,7 +30,7 @@ featured: true
 links:
   - name: Custom Link
     url: http://example.org
-url_pdf: [http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf](https://arxiv.org/abs/2305.12744)
+url_pdf: https://arxiv.org/abs/2305.12744
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
