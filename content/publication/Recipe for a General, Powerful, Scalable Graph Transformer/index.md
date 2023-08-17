@@ -1,0 +1,26 @@
+---
+title: Recipe for a General, Powerful, Scalable Graph Transformer
+publication_types:
+  - "1"
+authors:
+  - Ladislav Rampasek
+  - Mikhail Galkin
+  - Vijay Prakash Dwivedi
+  - Luu Anh Tuan
+  - Guy Wolf
+  - Dominique Beaini
+publication: "The Advances in Neural Information Processing Systems"
+publication_short: NeurIPS
+abstract: We propose a recipe on how to build a general, powerful, scalable (GPS) graph Transformer with linear complexity and state-of-the-art results on a diverse set of benchmarks. Graph Transformers (GTs) have gained popularity in the field of graph representation learning with a variety of recent publications but they lack a common foundation about what constitutes a good positional or structural encoding, and what differentiates them. In this paper, we summarize the different types of encodings with a clearer definition and categorize them as being local, global or relative. The prior GTs are constrained to small graphs with a few hundred nodes, here we propose the first architecture with a complexity linear in the number of nodes and edges O(N+E) by decoupling the local real-edge aggregation from the fully-connected Transformer. We argue that this decoupling does not negatively affect the expressivity, with our architecture being a universal function approximator on graphs. Our GPS recipe consists of choosing 3 main ingredients - i) positional/structural encoding, (ii) local message-passing mechanism, and (iii) global attention mechanism. We provide a modular framework GraphGPS that supports multiple types of encodings and that provides efficiency and scalability both in small and large graphs. We test our architecture on 16 benchmarks and show highly competitive results in all of them, show-casing the empirical benefits gained by the modularity and the combination of different strategies.
+
+draft: false
+featured: false
+tags:
+  - NeurIPS
+image:
+  filename: ""
+  focal_point: Smart
+  preview_only: false
+date: 2023-03-2T08:29:00.179Z
+---
+https://arxiv.org/abs/2205.12454
