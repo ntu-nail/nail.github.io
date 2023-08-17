@@ -5,8 +5,7 @@ publication_types:
 authors:
   - Vijay Prakash Dwivedi
   - Chaitanya K. Joshi
-  - Anh Tuan Luu
-  - Luu_Anh_Tuan
+  - Luu Anh Tuan
   - Thomas Laurent
   - Yoshua Bengio
   - Xavier Bresson
