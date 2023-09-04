@@ -1,6 +1,5 @@
 ---
-title: Audio-Visual Domain Adaptation Feature Fusion for Speech Emotion
-Recognition
+title: Audio-Visual Domain Adaptation Feature Fusion for Speech Emotion Recognition
 publication_types:
   - "1"
 authors:
