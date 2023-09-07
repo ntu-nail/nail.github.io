@@ -1,5 +1,5 @@
 ---
-title: A Novel, Cognitively Inspired, Unified Graph-based Multi-Task Framework for Information Extraction.
+title: A Novel, Cognitively Inspired, Unified Graph-based Multi-Task Framework for Information Extraction
 publication_types:
   - "1"
 authors:
