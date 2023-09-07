@@ -1,23 +1,35 @@
 ---
-title: A Contrastive Learning Framework for Event Detection via Semantic Type Prototype Representation Modeling
+title: Deep Learning to Estimate RECIST in Patients with NSCLC Treated with PD-1 Blockade
 publication_types:
   - "1"
 authors:
-  - Anran Hao
+  - Kathryn C Arbour
   - Luu Anh Tuan
-  - Siu Cheung Hui
-  - Jian Su
-publication: "Neurocomputing"
-publication_short: Neurocomputing
-abstract: The diversity of natural language expressions for describing events poses a challenge for the task of Event Detection (ED) with machine learning methods. To detect and classify event mentions, ED models essentially need to construct a semantic linkage between representations of the mentions and a set of target types. Unfortunately, most existing models use meaningless homogeneous one-hot vectors to represent the event type classes in ED, ignoring the fact that the event type labels also consist of meaningful words and can provide important clues for type representation learning. In this paper, we propose a Contrastive Semantic Prototype Representation Learning Framework for Event Detection (SemPRE), which exploits the pre-defined event type label words to inject the semantic information of the types and guide event detection. Specifically, we utilize pre-trained BERT to fuse text and event type into a joint representation space, and employ a contrastive-regularized module to enhance cross-type interaction. We conduct extensive experiments on the ACE 2005 and MAVEN benchmark datasets. The performance results show that our proposed SemPRE model achieves state-of-the-art performance on the datasets and outperforms existing baselines on limited annotated data and without using any external resources. Further analysis shows that our model is also effective in detecting multiple events and ambiguous trigger words.
+  - Jia Luo
+  - Hira Rizvi
+  - Andrew J. Plodkowski
+  - Mustafa Sakhi
+  - Kevin B. Huang
+  - Subba R. Digumarthy
+  - Michelle S. Ginsberg
+  - Jeffrey Girshman
+  - Mark G. Kris
+  - Gregory J. Riely
+  - Adam Yala
+  - Justin F Gainor
+  - Regina Barzilay
+  - Matthew D Hellmann
+publication: "Cancer Discovery"
+publication_short: Cancer Discovery
+abstract: Real-world evidence (RWE), conclusions derived from analysis of patients not treated in clinical trials, is increasingly recognized as an opportunity for discovery, to reduce disparities, and to contribute to regulatory approval. Maximal value of RWE may be facilitated through machine-learning techniques to integrate and interrogate large and otherwise underutilized datasets. In cancer research, an ongoing challenge for RWE is the lack of reliable, reproducible, scalable assessment of treatment-specific outcomes. We hypothesized a deep-learning model could be trained to use radiology text reports to estimate gold-standard RECIST-defined outcomes. Using text reports from patients with non-small cell lung cancer treated with PD-1 blockade in a training cohort and two test cohorts, we developed a deep-learning model to accurately estimate best overall response and progression-free survival. Our model may be a tool to determine outcomes at scale, enabling analyses of large clinical databases. SIGNIFICANCE:We developed and validated a deep-learning model trained on radiology text reports to estimate gold-standard objective response categories used in clinical trial assessments. This tool may facilitate analysis of large real-world oncology datasets using objective outcome metrics determined more reliably and at greater scale than currently possible.
 draft: false
 featured: false
 tags:
-  - Neurocomputing
+  - Cancer Discovery
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
 date: 2023-03-2T08:29:00.179Z
 ---
-https://www.sciencedirect.com/science/article/abs/pii/S0925231223007361
+https://pubmed.ncbi.nlm.nih.gov/32958579/
