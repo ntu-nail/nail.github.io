@@ -4,7 +4,7 @@ title: Liu Chaoqun
 
 # Username (this should match the folder name)
 authors:
-  - Liu Chaoqun
+  - Liu_Chaoqun
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,44 +16,33 @@ role: PhD Student
 organizations:
   - name: Nanyang Technological University
     url: 'https://www.ntu.edu.sg/'
+  - name: Alibaba DAMO Academy
+    url: 'https://damo.alibaba.com/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently under a joint PhD programme between Alibaba DAMO Academy and Nanyang Technological University, Singapore.
+bio: 
 
 interests:
   - Natural Language Processing
-  - Deep Learning
-
-education:
-  courses:
-    - course: Master of Engineering
-      institution: Nanyang Technological University
-      year: 2018
-    - course: Bachelor of Engineering (First Class Honours)
-      institution: Nanyang Technological University
-      year: 2015
+  - Large Language Model
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:chaoqun001@e.ntu.edu.sg'
+    link: 'chaoqun001@e.ntu.edu.sg'
   - icon: house
     icon_pack: fas
-    link: 'https://liuchaoqun.github.io/'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/spirit__song
+    link: 'https://liuchaoqun.github.io'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=oKL6xrcAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/liuchaoqun
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +58,6 @@ user_groups:
   - Researchers
 ---
 
-Hi! I am currently under a joint PhD programme between Alibaba DAMO Academy and Nanyang Technological University, Singapore. Before that, I got my Master of Engineering degree and Bachelor of Engineering degree with First Class Honours at Nanyang Technological University, Singapore.
+I am I am currently under a joint PhD programme between Alibaba DAMO Academy and Nanyang Technological University, Singapore. Before that, I got my Master of Engineering degree and Bachelor of Engineering degree with First Class Honours at Nanyang Technological University, Singapore. 
+
+My research interests include Natural Language Processing and Deep Learning. Currently, I mainly work on multilingual and multicultural NLP and low-resource languages.
