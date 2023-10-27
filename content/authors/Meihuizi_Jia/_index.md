@@ -34,7 +34,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'jmhzgj@gmail.com'
+    link: 'mailto:jmhzgj@gmail.com'
   - icon: house
     icon_pack: fas
     link: 'https://jmhz24.github.io/'

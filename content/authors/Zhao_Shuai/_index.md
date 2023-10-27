@@ -33,7 +33,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'n2207879d@e.ntu.edu.sg'
+    link: 'mailto:n2207879d@e.ntu.edu.sg'
   - icon: house
     icon_pack: fas
     link: 'https://shuaizhao95.github.io/'

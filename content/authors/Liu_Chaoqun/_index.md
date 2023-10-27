@@ -33,7 +33,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'chaoqun001@e.ntu.edu.sg'
+    link: 'mailto:chaoqun001@e.ntu.edu.sg'
   - icon: house
     icon_pack: fas
     link: 'https://liuchaoqun.github.io'

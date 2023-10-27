@@ -32,7 +32,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'PANF0004@e.ntu.edu.sg'
+    link: 'mailto:PANF0004@e.ntu.edu.sg'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
