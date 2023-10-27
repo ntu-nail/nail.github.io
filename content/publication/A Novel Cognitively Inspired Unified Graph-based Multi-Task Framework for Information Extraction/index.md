@@ -16,6 +16,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2023-07-06T00:00:00Z'
+url_pdf: https://link.springer.com/article/10.1007/s12559-023-10163-2
 ---
-https://link.springer.com/article/10.1007/s12559-023-10163-2
+
