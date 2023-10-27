@@ -3,7 +3,7 @@ title: Long Range Graph Benchmark
 publication_types:
   - "1"
 authors:
-  - Vijay Prakash Dwivedi
+  - Dwivedi_Vijay_Prakash
   - Ladislav Rampasek
   - Mikhail Galkin
   - Ali Parviz

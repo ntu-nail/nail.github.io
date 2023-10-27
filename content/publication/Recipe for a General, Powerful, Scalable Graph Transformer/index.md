@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Ladislav Rampasek
   - Mikhail Galkin
-  - Vijay Prakash Dwivedi
+  - Dwivedi_Vijay_Prakash
   - Luu_Anh_Tuan
   - Guy Wolf
   - Dominique Beaini

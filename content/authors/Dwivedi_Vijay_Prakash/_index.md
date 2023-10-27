@@ -4,7 +4,7 @@ title: Dwivedi Vijay Prakash
 
 # Username (this should match the folder name)
 authors:
-  - Dwivedi Vijay Prakash
+  - Dwivedi_Vijay_Prakash
 
 # Is this the primary user of the site?
 superuser: false

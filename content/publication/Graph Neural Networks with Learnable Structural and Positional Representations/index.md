@@ -3,7 +3,7 @@ title: Graph Neural Networks with Learnable Structural and Positional Representa
 publication_types:
   - "1"
 authors:
-  - Vijay Prakash Dwivedi
+  - Dwivedi_Vijay_Prakash
   - Luu_Anh_Tuan
   - Thomas Laurent
   - Yoshua Bengio

@@ -3,7 +3,7 @@ title: Benchmarking Graph Neural Networks
 publication_types:
   - "2"
 authors:
-  - Vijay Prakash Dwivedi
+  - Dwivedi_Vijay_Prakash
   - Chaitanya K. Joshi
   - Luu_Anh_Tuan
   - Thomas Laurent
