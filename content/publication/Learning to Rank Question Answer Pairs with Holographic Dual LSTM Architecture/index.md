@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Yi Tay
   - Minh C. Phan
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Siu Cheung Hui
 publication: "Conference on Research and Development in Information Retrieval"
 publication_short: SIGIR

@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Ruicheng Liu
   - Rui Mao
-  - Anh Tuan Luu
+  - Luu_Anh_Tuan
   - Erik Cambria
 publication: "Artificial Intelligence Review"
 publication_short: Artificial Intelligence Review

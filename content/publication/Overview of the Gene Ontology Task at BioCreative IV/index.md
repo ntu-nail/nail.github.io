@@ -6,7 +6,7 @@ authors:
   - Yuqing Mao
   - Kimberly Van Auken
   - Donghui Li
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Jung-jae Kim
   - Jung-Hsien Chiang
   - Yu-De Chen

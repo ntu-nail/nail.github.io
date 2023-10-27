@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Yi Tay
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Siu Cheung Hui
 publication: " The Web Conference"
 publication_short: WWW

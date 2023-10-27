@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Thong Nguyen
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Truc Lu
   - Tho Quan
 publication: "Empirical Methods in Natural Language Processing"

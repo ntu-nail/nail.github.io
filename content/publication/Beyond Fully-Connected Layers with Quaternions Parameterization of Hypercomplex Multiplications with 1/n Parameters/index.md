@@ -7,7 +7,7 @@ authors:
   - Yi Tay
   - Shuai Zhang
   - Alvin Chan
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Siu Cheung Hui
   - Jie Fu
 publication: "The International Conference on Learning Representations"

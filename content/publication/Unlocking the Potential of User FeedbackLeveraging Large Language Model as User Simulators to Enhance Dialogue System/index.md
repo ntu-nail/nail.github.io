@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Zhiyuan Hu
   - Yue Feng
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Bryan Hooi
   - Aldo Lipani
 publication: "Conference on Information and Knowledge Management"

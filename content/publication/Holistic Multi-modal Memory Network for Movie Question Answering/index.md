@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Anran Wang
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Chuan-Sheng Foo
   - Hongyuan Zhu
   - Yi Tay

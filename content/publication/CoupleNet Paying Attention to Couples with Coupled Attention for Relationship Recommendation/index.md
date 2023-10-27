@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Yi Tay
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Siu Cheung Hui
 publication: " AAAI International Conference on Web Blogs and Social Media"
 publication_short: ICWSM

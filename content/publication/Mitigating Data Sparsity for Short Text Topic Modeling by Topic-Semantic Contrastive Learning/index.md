@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Xiaobao Wu
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Xinshuai Dong
 publication: "Empirical Methods in Natural Language Processing"
 publication_short: EMNLP

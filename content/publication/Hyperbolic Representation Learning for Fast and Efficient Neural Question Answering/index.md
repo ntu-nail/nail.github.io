@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Yi Tay
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Siu Cheung Hui
 publication: " Web Search and Data Mining"
 publication_short: WSDM

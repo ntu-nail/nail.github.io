@@ -6,7 +6,7 @@ authors:
   - Jie Wei
   - Guanyu Hu
   - Xinyu Yang
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Yizhuo Dong
 publication: "Interspeech"
 publication_short: Interspeech

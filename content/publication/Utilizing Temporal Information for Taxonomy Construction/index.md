@@ -3,7 +3,7 @@ title: Utilizing Temporal Information for Taxonomy Construction
 publication_types:
   - "1"
 authors:
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Siu Cheung Hui
   - See-Kiong Ng
 publication: "Transactions of the Association for Computational Linguistics"

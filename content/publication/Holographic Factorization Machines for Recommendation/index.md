@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Yi Tay
   - Shuai Zhang
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Siu Cheung Hui
   - Lina Yao
   - Tran Dang Quang Vinh

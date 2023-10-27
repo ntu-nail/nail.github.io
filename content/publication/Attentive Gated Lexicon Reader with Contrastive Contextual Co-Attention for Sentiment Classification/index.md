@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Yi Tay
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Siu Cheung Hui
   - Jian Su
 publication: "Empirical Methods in Natural Language Processing"

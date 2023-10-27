@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Xinhsuai Dong
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Min Lin
   - Shuicheng Yan
   - Hanwang Zhang

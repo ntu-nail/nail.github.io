@@ -7,7 +7,7 @@ authors:
   - Wenxuan Zhang
   - Guizhen Chen
   - Xiaobao Wu
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Chip Hong Chang
   - Lidong Bing
 publication: "Association for Computational Linguistics"

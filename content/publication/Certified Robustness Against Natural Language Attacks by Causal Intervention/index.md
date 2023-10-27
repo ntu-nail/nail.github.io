@@ -6,7 +6,7 @@ authors:
   - Haiteng Zhao
   - Chang Ma
   - Xinshuai Dong
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Zhi-Hong Deng
   - Hanwang Zhang
 publication: "The International Conference on Machine Learning"

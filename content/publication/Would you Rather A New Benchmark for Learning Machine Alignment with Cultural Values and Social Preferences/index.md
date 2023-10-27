@@ -8,7 +8,7 @@ authors:
   - Jie Fu
   - Alvin Chan
   - Nancy Chen
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Chris Pal
 publication: "Association for Computational Linguistics"
 publication_short: ACL

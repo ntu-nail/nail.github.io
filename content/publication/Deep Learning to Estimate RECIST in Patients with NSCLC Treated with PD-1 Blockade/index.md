@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Kathryn C Arbour
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Jia Luo
   - Hira Rizvi
   - Andrew J. Plodkowski

@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Vijay Prakash Dwivedi
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Thomas Laurent
   - Yoshua Bengio
   - Xavier Bresson

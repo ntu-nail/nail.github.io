@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Thong Nguyen
   - Xiaobao Wu
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Zhen Hai
   - Lidong Bing
 publication: "Empirical Methods in Natural Language Processing"

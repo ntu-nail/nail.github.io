@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Yi Tay
   - Shuohang Wang
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Jie Fu
   - Minh C. Phan
   - Xingdi Yuan

@@ -6,7 +6,7 @@ authors:
   - Ladislav Rampasek
   - Mikhail Galkin
   - Vijay Prakash Dwivedi
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Guy Wolf
   - Dominique Beaini
 publication: "The Advances in Neural Information Processing Systems"

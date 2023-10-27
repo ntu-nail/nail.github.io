@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Jie Wei
   - Guanyu Hu
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Xinyu Yang
   - WenJing Zhu
 publication: "Acoustics, Speech and Signal Processing"

@@ -3,7 +3,7 @@ title: Learning Term Embeddings for Taxonomic Relation Identification with Dynam
 publication_types:
   - "1"
 authors:
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Yi Tay
   - Siu Cheung Hui
   - See-Kiong Ng

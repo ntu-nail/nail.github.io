@@ -3,7 +3,7 @@ title: Automatic Suggestion for PUBMED Query Reformulation
 publication_types:
   - "1"
 authors:
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Jung-jae Kim
 publication: "Journal of Computing Science and Engineering"
 publication_short: Journal of Computing Science and Engineering

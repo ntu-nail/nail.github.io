@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Brian Formento
   - Chuan Sheng Foo
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - See-Kiong Ng
 publication: "European Chapter of the ACL"
 publication_short: EACL

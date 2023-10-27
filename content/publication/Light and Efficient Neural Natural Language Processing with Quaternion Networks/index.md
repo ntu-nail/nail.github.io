@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Yi Tay
   - Aston Zhang
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Jinfeng Rao
   - Shuai Zhang
   - Shuohang Wang

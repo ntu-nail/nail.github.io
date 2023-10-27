@@ -8,7 +8,7 @@ authors:
   - Mikhail Galkin
   - Ali Parviz
   - Guy Wolf
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Dominique Beaini
 publication: "The Advances in Neural Information Processing Systems"
 publication_short: NeurIPS

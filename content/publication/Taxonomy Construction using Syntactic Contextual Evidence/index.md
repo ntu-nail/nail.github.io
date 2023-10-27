@@ -3,7 +3,7 @@ title: Taxonomy Construction using Syntactic Contextual Evidence
 publication_types:
   - "1"
 authors:
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Jung-jae Kim
   - See-Kiong Ng
 publication: "Empirical Methods in Natural Language Processing"

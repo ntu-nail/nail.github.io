@@ -3,7 +3,7 @@ title: Capturing Greater Context for Question Generation
 publication_types:
   - "1"
 authors:
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Darsh J Shah
   - Regina Barzilay
 publication: "Association for Computational Linguistics"

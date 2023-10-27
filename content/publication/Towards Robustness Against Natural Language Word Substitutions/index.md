@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Xinshuai Dong
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Rongrong Ji
   - Hong Liu
 publication: "The International Conference on Learning Representations"

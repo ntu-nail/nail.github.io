@@ -6,7 +6,7 @@ authors:
   - Donovan Ong
   - Jian Su
   - Bin Chen
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Ashok Narendranath
   - Yue Li
   - Shuqi Sun

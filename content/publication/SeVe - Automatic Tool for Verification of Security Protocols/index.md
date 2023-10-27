@@ -3,7 +3,7 @@ title: SeVe - Automatic Tool for Verification of Security Protocols
 publication_types:
   - "1"
 authors:
-  - Luu Anh Tuan
+  - Luu_Anh_Tuan
   - Jun Sun
   - Yang Liu
   - Jin Song Dong
