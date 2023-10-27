@@ -21,7 +21,10 @@ organizations:
 bio: I am a Ph.D. candidate at Jinan University, advised by Prof. Weiqi Luo and Jinming Wen.
 
 interests:
-Natural Language Processing; Summary Generation; Code Generation; Backdoor Attack
+  - Natural Language Processing
+  - Summary Generation
+  - Code Generation
+  - Backdoor Attack
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
