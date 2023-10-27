@@ -1,6 +1,6 @@
 ---
 title: NAIL's Group Meeting
-date: 2023-03-29
+date: 2023-09-22
 image:
   focal_point: 'Center'
 ---
