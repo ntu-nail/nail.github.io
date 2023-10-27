@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Meihuizi Jia
+title: Zhao Shuai
 
 # Username (this should match the folder name)
 authors:
-  - Meihuizi_Jia
+  - Zhao_Shuai
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,18 +14,14 @@ role: Visiting Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Beijing Institute of Technology
-    url: 'https://english.bit.edu.cn/'
+  - name: Jinan University
+    url: 'https://english.jnu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate at Beijing Institute of Technology.
+bio: I am a Ph.D. candidate at Jinan University, advised by Prof. Weiqi Luo and Jinming Wen.
 
 interests:
-    - Natural Language Processing
-    - Multimodal Learning
-    - Machine Reading Comprehension
-    - Multimodal Information Extraction
-    - Multimodal Reasoning
+Natural Language Processing; Summary Generation; Code Generation; Backdoor Attack
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -34,16 +30,14 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'jmhzgj@gmail.com'
+    link: 'n2207879d@e.ntu.edu.sg'
   - icon: house
     icon_pack: fas
-    link: 'https://jmhz24.github.io/'
+    link: 'https://shuaizhao95.github.io/'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=zh-CN&user=9f9c0J0AAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/jmhz24
+    link: https://scholar.google.com/citations?user=upbsFBAAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,4 +53,4 @@ user_groups:
   - Researchers
 ---
 
-I am a Ph.D. candidate at Beijing Institute of Technology, advised by Prof. Lejian Liao, and I am studying at Nanyang Technological University in Singapore as a visiting student, advised by Asst. Prof. Anh Tuan Luu. I worked at JD AI Lab, NLP group as a research intern engineer from 2021.11, to 2022.12 advised by Dr. Meng Chen and Dr. Xiaodong He. My hobbies include swimming, hiking and singing.
+I am a Ph.D. candidate at Jinan University, advised by Prof. Weiqi Luo and Jinming Wen, and I am studying at Nanyang Technological University in Singapore as a visiting student and Research Assistant, advised by Asst. Prof. Anh Tuan Luu. My research interests: Natural Language Processing; Summary Generation; Code Generation; Backdoor Attack.
