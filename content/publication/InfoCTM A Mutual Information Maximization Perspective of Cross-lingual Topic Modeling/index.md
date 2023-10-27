@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Xiaobao Wu
   - Xinshuai Dong
-  - Chaoqun Liu
+  - Liu_Chaoqun
   - Liang-Ming Pan
   - Luu_Anh_Tuan
 publication: " AAAI Conference on Artificial Intelligence"
