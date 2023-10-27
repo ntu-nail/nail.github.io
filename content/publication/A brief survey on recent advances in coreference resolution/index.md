@@ -1,5 +1,5 @@
 ---
-title: A brief survey on recent advances in coreference resolution
+title: A Brief Survey on Recent Advances in Coreference Resolution
 publication_types:
   - "1"
 authors:
