@@ -8,4 +8,6 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+list_format: 0
 ---

@@ -16,7 +16,7 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
+    local_business_type: 'Education'
     org_name: ''
     description: 'The Homepage of NTU NAIL'
   analytics:
