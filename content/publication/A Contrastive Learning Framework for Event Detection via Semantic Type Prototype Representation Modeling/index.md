@@ -14,10 +14,6 @@ draft: false
 featured: false
 tags:
   - Neurocomputing
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
 date: '2023-11-01T00:00:00Z'
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0925231223007361
 ---
+Link: https://www.sciencedirect.com/science/article/abs/pii/S0925231223007361

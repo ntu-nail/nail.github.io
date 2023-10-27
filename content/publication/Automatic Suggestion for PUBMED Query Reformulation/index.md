@@ -12,10 +12,6 @@ draft: false
 featured: false
 tags:
   - Journal of Computing Science and Engineering
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2012-06-02T00:00:00Z'
 ---
-https://www.researchgate.net/publication/264099419_Automatic_Suggestion_for_PubMed_Query_Reformulation
+Link: https://www.researchgate.net/publication/264099419_Automatic_Suggestion_for_PubMed_Query_Reformulation

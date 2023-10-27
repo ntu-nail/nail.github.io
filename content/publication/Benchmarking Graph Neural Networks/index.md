@@ -1,7 +1,7 @@
 ---
 title: Benchmarking Graph Neural Networks
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Vijay Prakash Dwivedi
   - Chaitanya K. Joshi
@@ -17,10 +17,6 @@ draft: false
 featured: false
 tags:
   - JMRL
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2020-03-01T00:00:00Z'
 ---
-https://arxiv.org/abs/2003.00982
+Link: https://arxiv.org/abs/2003.00982

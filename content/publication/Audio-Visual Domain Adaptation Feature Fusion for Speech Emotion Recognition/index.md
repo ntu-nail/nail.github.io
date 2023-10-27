@@ -16,10 +16,6 @@ draft: false
 featured: false
 tags:
   - Interspeech
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2022-10-01T00:00:00Z'
 ---
-https://www.isca-speech.org/archive/pdfs/interspeech_2022/wei22b_interspeech.pdf
+Link: https://www.isca-speech.org/archive/pdfs/interspeech_2022/wei22b_interspeech.pdf
