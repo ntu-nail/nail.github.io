@@ -13,10 +13,7 @@ draft: false
 featured: false
 tags:
   - CIKM
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+
+date: '2017-11-01T00:00:00Z'
 ---
-https://dl.acm.org/doi/abs/10.1145/3132847.3132936
+Link: https://dl.acm.org/doi/abs/10.1145/3132847.3132936

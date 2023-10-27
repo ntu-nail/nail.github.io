@@ -15,10 +15,7 @@ draft: false
 featured: false
 tags:
   - NeurIPS
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+
+date: '2019-01-01T00:00:00Z'
 ---
-https://papers.nips.cc/paper_files/paper/2019/hash/16fc18d787294ad5171100e33d05d4e2-Abstract.html
+Link: https://papers.nips.cc/paper_files/paper/2019/hash/16fc18d787294ad5171100e33d05d4e2-Abstract.html

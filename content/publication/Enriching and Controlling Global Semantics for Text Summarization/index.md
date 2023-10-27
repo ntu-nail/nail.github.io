@@ -15,10 +15,6 @@ draft: false
 featured: false
 tags:
   - EMNLP
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-02-2T08:29:00.179Z
+date: '2021-01-01T00:00:00Z'
 ---
-https://aclanthology.org/2021.emnlp-main.744/
+Link: https://aclanthology.org/2021.emnlp-main.744/

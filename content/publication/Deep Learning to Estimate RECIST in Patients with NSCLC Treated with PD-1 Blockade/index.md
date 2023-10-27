@@ -26,10 +26,7 @@ draft: false
 featured: false
 tags:
   - Cancer Discovery
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+
+date: '2021-01-11T00:00:00Z'
 ---
-https://pubmed.ncbi.nlm.nih.gov/32958579/
+Link: https://pubmed.ncbi.nlm.nih.gov/32958579/
