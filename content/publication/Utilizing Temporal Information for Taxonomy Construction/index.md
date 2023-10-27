@@ -13,10 +13,6 @@ draft: false
 featured: false
 tags:
   - TACL
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2016-06-01T00:00:00Z'
 ---
-https://aclanthology.org/Q16-1039/
+Link: https://aclanthology.org/Q16-1039/

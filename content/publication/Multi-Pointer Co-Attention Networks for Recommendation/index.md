@@ -13,10 +13,6 @@ draft: false
 featured: false
 tags:
   - KDD
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2018-01-01T00:00:00Z'
 ---
-https://arxiv.org/abs/1801.09251
+Link: https://arxiv.org/abs/1801.09251

@@ -14,10 +14,6 @@ draft: false
 featured: false
 tags:
   - EACL
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2023-06-01T00:00:00Z'
 ---
-https://aclanthology.org/2023.findings-eacl.1/#:~:text=Data%20from%20experiments%20on%20three,aft%2Datk)%20than%20alphabetical%20character
+Link: https://aclanthology.org/2023.findings-eacl.1/

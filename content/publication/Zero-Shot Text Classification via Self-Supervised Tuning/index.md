@@ -17,10 +17,6 @@ draft: false
 featured: false
 tags:
   - ACL
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2023-05-01T00:00:00Z'
 ---
-https://arxiv.org/abs/2305.11442#:~:text=Existing%20solutions%20to%20zero%2Dshot,relevant%20tasks%20for%20meta%2Dtuning.
+Link: https://arxiv.org/abs/2305.11442

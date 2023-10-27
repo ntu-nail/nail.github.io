@@ -17,10 +17,6 @@ draft: false
 featured: false
 tags:
   - ACL
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2020-06-01T00:00:00Z'
 ---
-https://aclanthology.org/2020.acl-main.477/
+Link: https://aclanthology.org/2020.acl-main.477/

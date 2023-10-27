@@ -19,10 +19,6 @@ draft: false
 featured: false
 tags:
   - AAAI
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2022-06-28T00:00:00Z'
 ---
-https://ojs.aaai.org/index.php/AAAI/article/view/21361
+Link: https://ojs.aaai.org/index.php/AAAI/article/view/21361

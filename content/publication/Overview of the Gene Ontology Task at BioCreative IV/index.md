@@ -20,10 +20,6 @@ draft: false
 featured: false
 tags:
   - Database Oxford
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2014-08-25T00:00:00Z'
 ---
-https://pubmed.ncbi.nlm.nih.gov/25157073/
+Link: https://pubmed.ncbi.nlm.nih.gov/25157073/

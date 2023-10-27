@@ -13,10 +13,6 @@ draft: false
 featured: false
 tags:
   - EMNLP
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2018-01-01T00:00:00Z'
 ---
-https://aclanthology.org/D18-1238/
+Link: https://aclanthology.org/D18-1238/

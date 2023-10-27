@@ -18,10 +18,6 @@ draft: false
 featured: false
 tags:
   - ACL
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2019-05-01T00:00:00Z'
 ---
 https://aclanthology.org/P19-1145/

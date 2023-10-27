@@ -16,10 +16,6 @@ draft: false
 featured: false
 tags:
   - FCS
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2023-03-2T08:29:00.179Z
+date: '2012-01-27T00:00:00Z'
 ---
-https://link.springer.com/article/10.1007/s11704-012-2903-3
+Link: https://link.springer.com/article/10.1007/s11704-012-2903-3
