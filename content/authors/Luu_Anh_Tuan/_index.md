@@ -2,6 +2,11 @@
 # Display name
 title: Luu Anh Tuan
 
+# Username (this should match the folder name)
+authors:
+  - Luu Anh Tuan
+  - Anh Tuan Luu
+
 # Is this the primary user of the site?
 superuser: true
 
