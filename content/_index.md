@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: hive_5.jpg
+            filename: meeting.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: hive_5.jpg
+            filename: lunch.jpg
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: hive_5.jpg
+            filename: joinus.jpg
             filters:
               brightness: 0.7
           position: center
