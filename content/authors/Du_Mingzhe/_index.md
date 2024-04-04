@@ -75,4 +75,4 @@ Du Mingzhe is a Research Assistant at the Institute of Data Science, National Un
 
 Mingzhe got his master’s degree at the University of Melbourne, under the guidance of Prof. Richard Sinnott.
 
-In recent times, Mingzhe has concentrated his research efforts on natural language processing (NLP) and its associated downstream tasks.
+Recently, Mingzhe has concentrated his research efforts on natural language processing (NLP) and its associated downstream tasks.
