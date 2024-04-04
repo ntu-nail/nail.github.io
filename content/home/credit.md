@@ -9,4 +9,4 @@ design:
 ---
 Many thanks to **Harshan Thomson** for graciously sharing the cover image:
 
-http://harshanthomson.com/projects/recent-works/the-hive-ntu-singapore/
+https://harshanthomson.com/projects/recent-works/the-hive-ntu-singapore/

@@ -17,7 +17,7 @@ organizations:
   - name: Nanyang Technological University
     url: 'https://www.ntu.edu.sg/'
   - name: Xi'an Jiaotong University
-    url: 'http://en.xjtu.edu.cn/'
+    url: 'https://en.xjtu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Wei Jie is a PhD student at the School of Computer Science and Technology, Xi'an Jiaotong University, supervised by Prof. Yang Xinyu.
