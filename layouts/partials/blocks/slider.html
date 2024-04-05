@@ -39,7 +39,7 @@
     {{ end }}
 
     {{ if $bg.image.filename }}
-      {{ $bg_img := resources.Get (printf "mediaa/%s" $bg.image.filename) }}
+      {{ $bg_img := resources.Get (printf "media/%s" $bg.image.filename) }}
       {{ if $bg_img }}
         {{ $style_bg = printf "%sbackground-image: url('%s'); background-repeat: no-repeat; background-position: %s; background-size: %s; " $style_bg $bg_img.Permalink ($bg.image.position | default "center") ($bg.image.size | default "cover") }}
       {{ else }}
