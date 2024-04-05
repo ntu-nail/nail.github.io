@@ -21,7 +21,7 @@
           {{ $i18n_published_with = $default }}
         {{ end }}
         {{ $i18n_published_with = replace $i18n_published_with "{hugoblox}" "<a href=\"https://hugoblox.com/?utm_campaign=poweredby\" target=\"_blank\" rel=\"noopener\">Hugo Blox Builder</a>" | safeHTML }}
-        {{ $i18n_published_with = replace $i18n_published_with "{repo_link}" "<a href=\"https://github.com/elfsong/" target=\"_blank\" rel=\"noopener\">" | safeHTML }}
+        {{ $i18n_published_with = replace $i18n_published_with "{repo_link}" "<a href=\"https://github.com/elfsong\" target=\"_blank\" rel=\"noopener\">" | safeHTML }}
         {{ $i18n_published_with = replace $i18n_published_with "{/repo_link}" "</a>" | safeHTML }}
         {{ $i18n_published_with | replaceRE "{year}" now.Year | markdownify | emojify | safeHTML }}
       {{ end }}
