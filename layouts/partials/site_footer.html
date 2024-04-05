@@ -1,6 +1,6 @@
 <footer class="site-footer">
 
-    {{ partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }}
+    <!-- {{ partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }}
   
     {{/* Load footer block */}}
     {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
@@ -8,7 +8,7 @@
     {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
       {{ errorf "Check your `params.yaml`. Cannot find footer block at `layouts/partials/%s`" $footer_section_path }}
     {{ end }}
-    {{ partial $footer_section_path . }}
+    {{ partial $footer_section_path . }} -->
   
     <!-- <p class="powered-by">
       {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
