@@ -25,7 +25,7 @@ bio: Mingzhe has concentrated his research efforts on natural language processin
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Information Retrieval :)
 
 education:
   courses:
