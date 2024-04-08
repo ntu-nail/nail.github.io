@@ -21,7 +21,7 @@
             {{ $.Scratch.SetInMap "annal" $year $year }}
             {{ end }}
             
-            {{ $yearReversed := partial "reverse-slice.html" .Scratch.Get "annal" }}
+            {{ $yearReversed := partial "reverse-slice.html" (.Scratch.Get "annal") }}
             {{ range $index, $year := .Scratch.Get "annal" }}
                 <div>{{ $year }}</div>
             {{ end }}
