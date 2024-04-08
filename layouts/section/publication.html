@@ -25,16 +25,13 @@
 
                 {{ range $year := .Scratch.Get "annal"}}
                     <div>{{$year}}</div>
+                    {{ range $index, $item := .Scratch.Get $year }}
+                        <div class='grid-sizer col-lg-12 isotope-item year-{{.Date.Format "2006" }}'>
+                            {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+                        </div>
+                    {{ end }}
                 {{end}}
-
-                {{ range $index, $item := .Scratch.Get "2023" }}
-                    <div class='grid-sizer col-lg-12 isotope-item year-{{.Date.Format "2006" }}'>
-                        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
-                    </div>
-                {{ end }}
-
             </div>
-
         </div>
     </div>
 </div>
