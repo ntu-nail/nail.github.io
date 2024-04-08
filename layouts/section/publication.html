@@ -16,12 +16,27 @@
             {{/* Array of distinct years. */}}
             {{ range $index, $item := .Pages.ByDate.Reverse }}
             {{ $year := print (.Date.Format "2006") }}
-            {{ $index := print ($item) }}
-            {{ $.Scratch.SetInMap $year $index  $item }}
+            {{ $.Scratch.SetInMap $year $item  $item }}
             {{ $.Scratch.SetInMap "annal" $year $year }}
             {{ end }}
 
-            <div> {{ .Scratch.Get "2023" }} </div>
+
+            <div id="container-publications">
+                {{ range $index, $item := .Scratch.Get "2023" }}
+
+                <!-- {{ if .Params.publication_types }}
+                {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
+                {{ else }}
+                {{ $.Scratch.Set "pubtype" 0 }}
+                {{ end }} -->
+
+                <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get " pubtype" }} year-{{.Date.Format "2006" }}">
+                    {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+                </div>
+
+                {{ end }}
+            </div>
+
 
             <div id="container-publications">
                 {{ range $index, $item := .Pages.ByDate.Reverse }}
