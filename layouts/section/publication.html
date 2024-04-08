@@ -18,7 +18,7 @@
             {{ $year := print (.Date.Format "2006") }}
             {{ $.Scratch.SetInMap "years" $year $item }}
 
-            <div> {{$year}} </div>
+            <div> {{$year}} {{$item}}</div>
             
             {{ end }}
 
