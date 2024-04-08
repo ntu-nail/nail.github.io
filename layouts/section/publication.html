@@ -16,13 +16,12 @@
             {{/* Array of distinct years. */}}
             {{ range $index, $item := .Pages.ByDate.Reverse }}
             {{ $year := print (.Date.Format "2006") }}
-            {{ $index := string $index}}
-            {{ $.Scratch.SetInMap $year $index $item }}
+            <!-- {{ $index := string $index}} -->
+            {{ $.Scratch.SetInMap $year (string $index) $item }}
             {{ $.Scratch.SetInMap "annal" $year $year }}
             {{ end }}
             
             <div id="container-publications">
-
                 {{ range $year := .Scratch.Get "annal"}}
                     <div>{{$year}}</div>
                     {{ range $index, $item := .Scratch.Get $year }}
