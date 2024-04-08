@@ -21,7 +21,11 @@
             {{ end }}
 
             {{ $annals := $.Scratch.GetSortedMapValues "annal" }}
-            <div>{{ $annals }}</div>
+
+            {{ range $k, $v :=  sort $annals "desc" }}
+                <div>{{$k}} {{$v}}</div>
+            {{ end }}
+           
             
             <div id="container-publications">
                 {{ range $year := $.Scratch.GetSortedMapValues "annal" }}
