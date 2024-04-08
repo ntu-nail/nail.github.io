@@ -20,10 +20,10 @@
             {{ $.Scratch.SetInMap "annal" $year $year }}
             {{ end }}
 
-            {{ $annals := $.Scratch.GetSortedMapValues "annal" }}
 
-            {{ range $k, $v :=  sort $annals "value" "desc" }}
-                <div>{{$k}} {{$v}}</div>
+
+            {{ range $year := sort ($.Scratch.GetSortedMapValues "annal") "value" "desc" }}
+                <div>{{$year}}</div>
             {{ end }}
            
             
