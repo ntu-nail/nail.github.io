@@ -22,6 +22,8 @@
             
             {{ end }}
 
+            <div> {{ .Scratch.Get "years" }} </div>
+
             <div id="container-publications">
                 {{ range $index, $item := .Pages.ByDate.Reverse }}
 
