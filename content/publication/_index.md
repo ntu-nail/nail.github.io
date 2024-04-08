@@ -9,5 +9,5 @@ banner:
   caption: ''
   image: ''
 
-list_format: 0
+list_format: 1
 ---
