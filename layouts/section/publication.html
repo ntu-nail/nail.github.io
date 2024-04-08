@@ -22,7 +22,7 @@
 
             {{ $annals := $.Scratch.GetSortedMapValues "annal" }}
 
-            {{ range $k, $v :=  sort $annals "desc" }}
+            {{ range $k, $v :=  sort $annals "value" "desc" }}
                 <div>{{$k}} {{$v}}</div>
             {{ end }}
            
