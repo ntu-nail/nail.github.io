@@ -25,7 +25,7 @@
             <div id="container-publications">
                 {{ range $index, $item := .Scratch.Get "2023" }}
 
-                <div> {{$item}}</div>
+                <div> {{$index}} {{$item}}</div>
 
                 {{ end }}
             </div>
