@@ -22,9 +22,9 @@
             {{ end }}
             
             <div id="container-publications">
-                {{ range $year := .Scratch.Get "annal"}}
+                {{ range $year := $.Scratch.Get "annal"}}
                     <div>{{$year}}</div>
-                    {{ range $index, $item := $.Scratch.Get "2022" }}
+                    {{ range $index, $item := $.Scratch.Get $year }}
                         <div class='grid-sizer col-lg-12 isotope-item year-{{.Date.Format "2006" }}'>
                             {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
                         </div>
