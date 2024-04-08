@@ -22,7 +22,7 @@
             {{ end }}
             
 
-            {{ range $index, $year := .Scratch.Get "annal" }}
+            {{ range $index, $year := (.Scratch.Get "annal") | reverse }}
                 <div>{{ $year }}</div>
             {{ end }}
 
