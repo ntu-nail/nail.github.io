@@ -19,9 +19,12 @@
             {{ $.Scratch.SetInMap $year (string $index) $item }}
             {{ $.Scratch.SetInMap "annal" $year $year }}
             {{ end }}
+
+            {{ $annals := $.Scratch.GetSortedMapValues "annal" }}
+            <div>{{ $annals }}</div>
             
             <div id="container-publications">
-                {{ range $year := ($.Scratch.GetSortedMapValues "annal").Reverse }}
+                {{ range $year := $.Scratch.GetSortedMapValues "annal" }}
                     <div>{{$year}}</div>
                     {{ range $index, $item := $.Scratch.Get $year }}
                         <div class='grid-sizer col-lg-12 isotope-item year-{{.Date.Format "2006" }}'>
