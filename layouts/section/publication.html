@@ -21,21 +21,20 @@
             {{ $.Scratch.SetInMap "annal" $year $year }}
             {{ end }}
             
-            {{ $yearReversed := partial "reverse-slice.html" (.Scratch.Get "annal") }}
-            {{ range $index, $year := .Scratch.Get "annal" }}
-                <div>{{ $year }}</div>
-            {{ end }}
-
             <div id="container-publications">
-                {{ range $index, $item := .Scratch.Get "2023" }}
-                <div class='grid-sizer col-lg-12 isotope-item year-{{.Date.Format "2006" }}'>
-                    {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+                {{ range $index, $year := .Scratch.Get "annal" }}
+                <div>{{ $year }}</div>
+                <div id="container-publications">
+                    {{ range $index, $item := .Scratch.Get "2023" }}
+                    <div class='grid-sizer col-lg-12 isotope-item year-{{.Date.Format "2006" }}'>
+                        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+                    </div>
+                    {{ end }}
                 </div>
                 {{ end }}
             </div>
 
-
-            <div id="container-publications">
+            <!-- <div id="container-publications">
                 {{ range $index, $item := .Pages.ByDate.Reverse }}
 
                 <div class='grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get " pubtype" }} year-{{.Date.Format "2006" }}'>
@@ -43,7 +42,7 @@
                 </div>
 
                 {{ end }}
-            </div>
+            </div> -->
 
         </div>
     </div>
