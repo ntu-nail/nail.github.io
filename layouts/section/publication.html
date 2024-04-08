@@ -17,7 +17,7 @@
             {{ range .Pages.ByDate.Reverse }}
             {{ $year := print (.Date.Format "2006") }}
             {{ $.Scratch.SetInMap "years" $year $year }}
-            <div>lalala</div>
+            <!-- <div>lalala</div> -->
             {{ end }}
 
             <div id="container-publications">
