@@ -16,8 +16,9 @@
             {{/* Array of distinct years. */}}
             {{ range .Pages.ByDate.Reverse }}
             {{ $year := print (.Date.Format "2006") }}
+            {{ $title := print (.title) }}
             {{ $.Scratch.SetInMap "years" $year $year }}
-            <div> {{$year}} </div>
+            <div> {{$year}} {{$title}}</div>
             {{ end }}
 
             <div id="container-publications">
