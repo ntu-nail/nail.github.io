@@ -22,15 +22,13 @@
             {{ end }}
             
             <div id="container-publications">
-                {{ range $index, $year := .Scratch.Get "annal" }}
+                {{ range $a_index, $year := .Scratch.Get "annal" }}
                 <div>{{ $year }}</div>
-                <div id="container-publications">
-                    {{ range $index, $item := .Scratch.Get "2023" }}
+                    {{ range $index, $item := .Scratch.Get $year }}
                     <div class='grid-sizer col-lg-12 isotope-item year-{{.Date.Format "2006" }}'>
                         {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
                     </div>
                     {{ end }}
-                </div>
                 {{ end }}
             </div>
 
