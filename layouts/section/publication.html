@@ -16,7 +16,7 @@
             {{/* Array of distinct years. */}}
             {{ range $index, $item := .Pages.ByDate.Reverse }}
             {{ $year := print (.Date.Format "2006") }}
-            {{ $.Scratch.SetInMap $year $index $item }}
+            {{ $.Scratch.SetInMap $year {{ string $index }}  $item }}
             {{ $.Scratch.SetInMap "annal" $year $year }}
             {{ end }}
 
