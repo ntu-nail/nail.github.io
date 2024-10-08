@@ -1,7 +1,7 @@
 ---
 title: Capturing Greater Context for Question Generation
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Luu_Anh_Tuan
   - Darsh J Shah

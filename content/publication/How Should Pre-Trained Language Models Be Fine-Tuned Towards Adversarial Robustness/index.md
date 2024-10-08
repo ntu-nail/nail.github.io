@@ -1,7 +1,7 @@
 ---
 title: How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Xinhsuai Dong
   - Luu_Anh_Tuan

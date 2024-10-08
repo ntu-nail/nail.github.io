@@ -1,7 +1,7 @@
 ---
 title: InfoCTM:A Mutual Information Maximization Perspective of Cross-lingual Topic Modeling
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Xiaobao Wu
   - Xinshuai Dong

@@ -1,7 +1,7 @@
 ---
 title: Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Shuohang Wang

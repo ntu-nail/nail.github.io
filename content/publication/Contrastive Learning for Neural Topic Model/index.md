@@ -1,7 +1,7 @@
 ---
 title: Contrastive Learning for Neural Topic Model
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Thong Nguyen
   - Luu_Anh_Tuan

@@ -1,7 +1,7 @@
 ---
 title: Non-Parametric Estimation of Multiple Embeddings for Link Prediction on Dynamic Knowledge Graphs
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

@@ -1,7 +1,7 @@
 ---
 title: Deep Learning to Estimate RECIST in Patients with NSCLC Treated with PD-1 Blockade
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Kathryn C Arbour
   - Luu_Anh_Tuan

@@ -1,7 +1,7 @@
 ---
 title: Holistic Multi-modal Memory Network for Movie Question Answering
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Anran Wang
   - Luu_Anh_Tuan

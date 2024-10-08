@@ -1,7 +1,7 @@
 ---
 title: Automatic Suggestion for PUBMED Query Reformulation
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Luu_Anh_Tuan
   - Jung-jae Kim

@@ -1,7 +1,7 @@
 ---
 title: Recipe for a General, Powerful, Scalable Graph Transformer
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Ladislav Rampasek
   - Mikhail Galkin

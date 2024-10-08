@@ -1,7 +1,7 @@
 ---
 title: Textual Manifold-based Defense Against Natural Language Adversarial Examples
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Nguyen Minh Dang
   - Luu_Anh_Tuan

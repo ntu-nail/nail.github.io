@@ -1,7 +1,7 @@
 ---
 title: Densely Connected Attention Propagation for Reading Comprehension
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

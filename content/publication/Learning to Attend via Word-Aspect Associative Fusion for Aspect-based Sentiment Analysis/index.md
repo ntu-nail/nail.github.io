@@ -1,7 +1,7 @@
 ---
 title: Learning to Attend via Word-Aspect Associative Fusion for Aspect-based Sentiment Analysis
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

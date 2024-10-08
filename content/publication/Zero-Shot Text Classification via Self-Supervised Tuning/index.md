@@ -1,7 +1,7 @@
 ---
 title: Zero-Shot Text Classification via Self-Supervised Tuning
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Liu_Chaoqun
   - Wenxuan Zhang

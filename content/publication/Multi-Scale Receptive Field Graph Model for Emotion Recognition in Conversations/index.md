@@ -1,7 +1,7 @@
 ---
 title: Multi-Scale Receptive Field Graph Model for Emotion Recognition in Conversations
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Jie Wei
   - Guanyu Hu

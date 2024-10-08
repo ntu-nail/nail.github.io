@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Potential of User Feedback:Leveraging Large Language Model as User Simulators to Enhance Dialogue System
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Zhiyuan Hu
   - Yue Feng

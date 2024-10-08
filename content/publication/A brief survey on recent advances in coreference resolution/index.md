@@ -1,7 +1,7 @@
 ---
 title: A Brief Survey on Recent Advances in Coreference Resolution
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Ruicheng Liu
   - Rui Mao

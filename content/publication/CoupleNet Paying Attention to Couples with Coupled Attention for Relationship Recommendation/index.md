@@ -1,7 +1,7 @@
 ---
 title: CoupleNet:Paying Attention to Couples with Coupled Attention for Relationship Recommendation
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

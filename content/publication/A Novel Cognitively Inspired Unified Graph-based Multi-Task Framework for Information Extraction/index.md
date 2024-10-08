@@ -1,7 +1,7 @@
 ---
 title: A Novel, Cognitively Inspired, Unified Graph-based Multi-Task Framework for Information Extraction
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yandan Zheng
   - Luu_Anh_Tuan

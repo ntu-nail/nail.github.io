@@ -1,7 +1,7 @@
 ---
 title: Compare, Compress and Propagate:Enhancing Neural Architectures with Alignment Factorization for Natural Language Inference
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

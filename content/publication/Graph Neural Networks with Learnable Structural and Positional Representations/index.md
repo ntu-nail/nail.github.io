@@ -1,7 +1,7 @@
 ---
 title: Graph Neural Networks with Learnable Structural and Positional Representations
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Dwivedi_Vijay_Prakash
   - Luu_Anh_Tuan

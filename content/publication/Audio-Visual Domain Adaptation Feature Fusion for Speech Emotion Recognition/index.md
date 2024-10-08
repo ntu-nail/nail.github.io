@@ -1,7 +1,7 @@
 ---
 title: Audio-Visual Domain Adaptation Feature Fusion for Speech Emotion Recognition
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Jie Wei
   - Guanyu Hu

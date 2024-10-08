@@ -1,7 +1,7 @@
 ---
 title: Learning Term Embeddings for Taxonomic Relation Identification with Dynamic Weighting Neural Network
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Luu_Anh_Tuan
   - Yi Tay

@@ -1,7 +1,7 @@
 ---
 title: Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Prediction
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Thong Nguyen
   - Xiaobao Wu

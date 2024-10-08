@@ -1,7 +1,7 @@
 ---
 title: Light and Efficient Neural Natural Language Processing with Quaternion Networks
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Aston Zhang

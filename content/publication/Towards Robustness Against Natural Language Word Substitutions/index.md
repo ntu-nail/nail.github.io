@@ -1,7 +1,7 @@
 ---
 title: Towards Robustness Against Natural Language Word Substitutions
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Xinshuai Dong
   - Luu_Anh_Tuan

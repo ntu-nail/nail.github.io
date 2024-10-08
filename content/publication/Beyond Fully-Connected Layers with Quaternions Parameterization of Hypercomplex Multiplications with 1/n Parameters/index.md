@@ -1,7 +1,7 @@
 ---
 title: Beyond Fully-Connected Layers with Quaternions:Parameterization of Hypercomplex Multiplications with 1/n Parameters
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Aston Zhang
   - Yi Tay

@@ -1,7 +1,7 @@
 ---
 title: A Contrastive Learning Framework for Event Detection via Semantic Type Prototype Representation Modeling
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Anran Hao
   - Luu_Anh_Tuan

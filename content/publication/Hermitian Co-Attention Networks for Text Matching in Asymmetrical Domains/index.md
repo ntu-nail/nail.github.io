@@ -1,7 +1,7 @@
 ---
 title: Hermitian Co-Attention Networks for Text Matching in Asymmetrical Domains
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

@@ -1,7 +1,7 @@
 ---
 title: Effective Neural Topic Modeling with Embedding Clustering Regularization
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Xiaobao Wu
   - Xinshuai Dong

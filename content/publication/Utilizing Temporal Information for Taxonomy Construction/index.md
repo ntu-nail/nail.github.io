@@ -1,7 +1,7 @@
 ---
 title: Utilizing Temporal Information for Taxonomy Construction
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Luu_Anh_Tuan
   - Siu Cheung Hui

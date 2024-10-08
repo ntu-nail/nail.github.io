@@ -1,7 +1,7 @@
 ---
 title: Cross Temporal Recurrent Networks for Ranking Question Answer Pairs
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

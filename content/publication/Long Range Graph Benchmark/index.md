@@ -1,7 +1,7 @@
 ---
 title: Long Range Graph Benchmark
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Dwivedi_Vijay_Prakash
   - Ladislav Rampasek

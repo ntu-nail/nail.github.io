@@ -1,7 +1,7 @@
 ---
 title: Learning to Rank Question Answer Pairs with Holographic Dual LSTM Architecture
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Minh C. Phan

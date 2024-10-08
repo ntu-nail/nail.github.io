@@ -1,7 +1,7 @@
 ---
 title: Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Donovan Ong

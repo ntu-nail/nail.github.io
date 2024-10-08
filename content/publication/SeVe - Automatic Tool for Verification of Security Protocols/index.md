@@ -1,7 +1,7 @@
 ---
 title: SeVe - Automatic Tool for Verification of Security Protocols
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Luu_Anh_Tuan
   - Jun Sun

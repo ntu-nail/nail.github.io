@@ -1,7 +1,7 @@
 ---
 title: Taxonomy Construction using Syntactic Contextual Evidence
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Luu_Anh_Tuan
   - Jung-jae Kim

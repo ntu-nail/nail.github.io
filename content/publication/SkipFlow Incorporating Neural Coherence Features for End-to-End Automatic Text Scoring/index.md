@@ -1,7 +1,7 @@
 ---
 title: SkipFlow:Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

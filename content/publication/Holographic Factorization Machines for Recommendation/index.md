@@ -1,7 +1,7 @@
 ---
 title: Holographic Factorization Machines for Recommendation
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Shuai Zhang

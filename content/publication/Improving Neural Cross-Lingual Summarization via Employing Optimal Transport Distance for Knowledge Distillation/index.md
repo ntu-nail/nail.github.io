@@ -1,7 +1,7 @@
 ---
 title: Improving Neural Cross-Lingual Summarization via Employing Optimal Transport Distance for Knowledge Distillation
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Thong Nguyen
   - Luu_Anh_Tuan

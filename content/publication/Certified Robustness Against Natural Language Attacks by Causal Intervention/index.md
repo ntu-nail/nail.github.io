@@ -1,7 +1,7 @@
 ---
 title: Certified Robustness Against Natural Language Attacks by Causal Intervention
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Haiteng Zhao
   - Chang Ma

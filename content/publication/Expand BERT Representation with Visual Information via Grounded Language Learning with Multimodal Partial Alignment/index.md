@@ -1,7 +1,7 @@
 ---
 title: Expand BERT Representation with Visual Information via Grounded Language Learning with Multimodal Partial Alignment
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Duy Nguyen
   - Anh Vu

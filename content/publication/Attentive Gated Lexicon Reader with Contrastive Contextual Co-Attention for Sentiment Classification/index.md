@@ -1,7 +1,7 @@
 ---
 title: Attentive Gated Lexicon Reader with Contrastive Contextual Co-Attention for Sentiment Classification
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

@@ -1,7 +1,7 @@
 ---
 title: Compositional De-Attention Networks
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

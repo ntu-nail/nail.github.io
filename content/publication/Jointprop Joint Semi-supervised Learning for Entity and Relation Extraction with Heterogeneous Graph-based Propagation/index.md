@@ -1,7 +1,7 @@
 ---
 title: Jointprop:Joint Semi-supervised Learning for Entity and Relation Extraction with Heterogeneous Graph-based Propagation
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yandan Zheng
   - Anran Hao

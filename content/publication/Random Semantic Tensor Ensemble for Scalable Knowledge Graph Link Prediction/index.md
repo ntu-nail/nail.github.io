@@ -1,7 +1,7 @@
 ---
 title: Random Semantic Tensor Ensemble for Scalable Knowledge Graph Link Prediction
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

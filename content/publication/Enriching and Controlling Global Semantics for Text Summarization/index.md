@@ -1,7 +1,7 @@
 ---
 title: Enriching and Controlling Global Semantics for Text Summarization
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Thong Nguyen
   - Luu_Anh_Tuan

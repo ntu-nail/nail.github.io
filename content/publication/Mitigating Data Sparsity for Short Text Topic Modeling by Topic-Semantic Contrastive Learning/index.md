@@ -1,7 +1,7 @@
 ---
 title: Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Xiaobao Wu
   - Luu_Anh_Tuan

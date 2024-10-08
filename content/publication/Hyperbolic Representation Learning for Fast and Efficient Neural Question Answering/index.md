@@ -1,7 +1,7 @@
 ---
 title: Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

@@ -1,7 +1,7 @@
 ---
 title: Multi-Granular Sequence Encoding via Dilated Compositional Units for Reading Comprehension
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

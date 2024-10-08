@@ -1,7 +1,7 @@
 ---
 title: Overview of the Gene Ontology Task at BioCreative IV
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yuqing Mao
   - Kimberly Van Auken

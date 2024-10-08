@@ -1,7 +1,7 @@
 ---
 title: Incorporating Trustiness and Collective Synonym/ Contrastive Evidence into Taxonomy Construction
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Luu_Anh_Tuan
   - Jung-jae Kim

@@ -1,7 +1,7 @@
 ---
 title: Using Punctuation as an Adversarial Attack on Deep Learning-Based NLP Systems:An Empirical Study
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Brian Formento
   - Chuan Sheng Foo

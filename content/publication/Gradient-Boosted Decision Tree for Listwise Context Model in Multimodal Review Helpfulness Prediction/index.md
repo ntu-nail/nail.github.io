@@ -1,7 +1,7 @@
 ---
 title: Gradient-Boosted Decision Tree for Listwise Context Model in Multimodal Review Helpfulness Prediction
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Thong Nguyen
   - Xiaobao Wu

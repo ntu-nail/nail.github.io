@@ -1,7 +1,7 @@
 ---
 title: Multi-Pointer Co-Attention Networks for Recommendation
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Yi Tay
   - Luu_Anh_Tuan

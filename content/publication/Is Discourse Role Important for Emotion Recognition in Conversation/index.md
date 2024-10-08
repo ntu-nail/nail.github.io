@@ -1,7 +1,7 @@
 ---
 title: Is Discourse Role Important for Emotion Recognition in Conversation?
 publication_types:
-  - "1"
+  - Conference
 authors:
   - Donovan Ong
   - Jian Su
