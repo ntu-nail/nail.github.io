@@ -12,7 +12,9 @@ authors:
 - Luu Anh Tuan
 
 date: '2024-10-01'
-publishDate: '2024-10-01T14:00:27.247511Z'
+publishDate: '2024-10-01T00:00:00Z'
+publication: "Proceedings of European Computer Vision Association 2024"
+publication_short: ECCV
 publication_types:
   - "1"
 
