@@ -36,4 +36,6 @@ abstract: Fully fine-tuning pretrained large-scale transformer models has become
 links:
 - name: URL
   url: https://ojs.aaai.org/index.php/AAAI/article/view/29847
+- name: Read the Paper
+  url: https://nguyentthong.github.io/READ/
 ---
