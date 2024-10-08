@@ -1,3 +1,1 @@
 # Welcome to NAIL!
-
-🚧 WIP
