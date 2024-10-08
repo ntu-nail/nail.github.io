@@ -1,6 +1,5 @@
 ---
-title: 'READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient
-  Transfer Learning in Low-Resource Video-Language Modeling'
+title: 'READ: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in Low-Resource Video-Language Modeling'
 authors:
 - Thong Nguyen
 - Xiaobao Wu
