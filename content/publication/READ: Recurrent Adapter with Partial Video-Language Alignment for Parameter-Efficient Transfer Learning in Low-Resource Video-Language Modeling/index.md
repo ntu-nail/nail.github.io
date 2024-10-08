@@ -11,10 +11,12 @@ authors:
 - See-Kiong Ng
 - Anh Tuan Luu
 date: '2024-03-01'
+
 publishDate: '2024-04-10T13:39:27.247511Z'
 publication_types:
-- article-journal
-publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
+- Conference
+publication: 'Proceedings of the AAAI Conference on Artificial Intelligence'
+
 doi: 10.1609/aaai.v38i17.29847
 abstract: Fully fine-tuning pretrained large-scale transformer models has become a
   popular paradigm for video-language modeling tasks, such as temporal language grounding
@@ -36,6 +38,6 @@ abstract: Fully fine-tuning pretrained large-scale transformer models has become
 links:
 - name: URL
   url: https://ojs.aaai.org/index.php/AAAI/article/view/29847
-- name: Read the Paper
+- name: Paper
   url: https://nguyentthong.github.io/READ/
 ---
