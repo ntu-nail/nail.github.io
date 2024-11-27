@@ -16,8 +16,6 @@ content:
   # Contact (edit or remove options as required)
   email: anhtuan.luu@ntu.edu.sg
 
-  phone: 888 888 88 88
-
   address:
     street: 50 Nanyang Ave
     postcode: '639798'
@@ -31,7 +29,7 @@ content:
   directions: N4-02b-66, School of Computer Science and Engineering, NTU
 
   office_hours:
-    - 'Monday - Friday 10:00 to 17:00'
+    - 'Monday - Friday 09:00 to 17:00'
 
   appointment_url: 'https://calendly.com'
   #contact_links:
