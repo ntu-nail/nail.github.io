@@ -35,3 +35,211 @@
     pages = "11507--11522",
     abstract = "In-context learning, a paradigm bridging the gap between pre-training and fine-tuning, has demonstrated high efficacy in several NLP tasks, especially in few-shot settings. Despite being widely applied, in-context learning is vulnerable to malicious attacks. In this work, we raise security concerns regarding this paradigm. Our studies demonstrate that an attacker can manipulate the behavior of large language models by poisoning the demonstration context, without the need for fine-tuning the model. Specifically, we design a new backdoor attack method, named ICLAttack, to target large language models based on in-context learning. Our method encompasses two types of attacks: poisoning demonstration examples and poisoning demonstration prompts, which can make models behave in alignment with predefined intentions. ICLAttack does not require additional fine-tuning to implant a backdoor, thus preserving the model`s generality. Furthermore, the poisoned examples are correctly labeled, enhancing the natural stealth of our attack method. Extensive experimental results across several language models, ranging in size from 1.3B to 180B parameters, demonstrate the effectiveness of our attack method, exemplified by a high average attack success rate of 95.0{\%} across the three datasets on OPT models."
 }
+
+@inproceedings{nguyen-etal-2024-encoding,
+    title = "Encoding and Controlling Global Semantics for Long-form Video Question Answering",
+    author = "Nguyen, Thong Thanh  and
+      Hu, Zhiyuan  and
+      Wu, Xiaobao  and
+      Nguyen, Cong-Duy T  and
+      Ng, See-Kiong  and
+      Luu, Anh Tuan",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.400/",
+    doi = "10.18653/v1/2024.emnlp-main.400",
+    pages = "7049--7066",
+    abstract = "Seeking answers effectively for long videos is essential to build video question answering (videoQA) systems. Previous methods adaptively select frames and regions from long videos to save computations. However, this fails to reason over the whole sequence of video, leading to sub-optimal performance. To address this problem, we introduce a state space layer (SSL) into multi-modal Transformer to efficiently integrate global semantics of the video, which mitigates the video information loss caused by frame and region selection modules. Our SSL includes a gating unit to enable controllability over the flow of global semantics into visual representations. To further enhance the controllability, we introduce a cross-modal compositional congruence objective to encourage global semantics aligned with the question. To rigorously evaluate long-form videoQA capacity, we construct two new benchmarks Ego-QA and MAD-QA featuring videos of considerably long length, i.e. 17.5 minutes and 1.9 hours, respectively. Extensive experiments demonstrate the superiority of our framework on these new as well as existing datasets."
+}
+
+@inproceedings{zhang-etal-2024-syntqa,
+    title = "{S}yn{TQA}: Synergistic Table-based Question Answering via Mixture of Text-to-{SQL} and {E}2{E} {TQA}",
+    author = "Zhang, Siyue  and
+      Luu, Anh Tuan  and
+      Zhao, Chen",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.131/",
+    doi = "10.18653/v1/2024.findings-emnlp.131",
+    pages = "2352--2364",
+    abstract = "Text-to-SQL parsing and end-to-end question answering (E2E TQA) are two main approaches for Table-based Question Answering task. Despite success on multiple benchmarks, they have yet to be compared and their synergy remains unexplored. In this paper, we identify different strengths and weaknesses through evaluating state-of-the-art models on benchmark datasets: Text-to-SQL demonstrates superiority in handling questions involving arithmetic operations and long tables; E2E TQA excels in addressing ambiguous questions, non-standard table schema, and complex table contents. To combine both strengths, we propose a Synergistic Table-based Question Answering approach that integrate different models via answer selection, which is agnostic to any model types. Further experiments validate that ensembling models by either feature-based or LLM-based answer selector significantly improves the performance over individual models."
+}
+
+@inproceedings{pan-etal-2024-llms,
+    title = "Are {LLM}s Good Zero-Shot Fallacy Classifiers?",
+    author = "Pan, Fengjun  and
+      Wu, Xiaobao  and
+      Li, Zongrui  and
+      Luu, Anh Tuan",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.794/",
+    doi = "10.18653/v1/2024.emnlp-main.794",
+    pages = "14338--14364",
+    abstract = "Fallacies are defective arguments with faulty reasoning. Detecting and classifying them is a crucial NLP task to prevent misinformation, manipulative claims, and biased decisions. However, existing fallacy classifiers are limited by the requirement for sufficient labeled data for training, which hinders their out-of-distribution (OOD) generalization abilities. In this paper, we focus on leveraging Large Language Models (LLMs) for zero-shot fallacy classification. To elicit fallacy-related knowledge and reasoning abilities of LLMs, we propose diverse single-round and multi-round prompting schemes, applying different taskspecific instructions such as extraction, summarization, and Chain-of-Thought reasoning. With comprehensive experiments on benchmark datasets, we suggest that LLMs could be potential zero-shot fallacy classifiers. In general, LLMs under single-round prompting schemes have achieved acceptable zeroshot performances compared to the best fullshot baselines and can outperform them in all OOD inference scenarios and some opendomain tasks. Our novel multi-round prompting schemes can effectively bring about more improvements, especially for small LLMs. Our analysis further underlines the future research on zero-shot fallacy classification. Codes and data are available at: https://github.com/panFJCharlotte98/Fallacy{\_}Detection."
+}
+
+@inproceedings{nips2024_2,
+ author = {Haoran Luo and Haihong E and Yuhao Yang and Tianyu Yao and Yikai Guo and Zichen Tang and Wentai Zhang and Kaiyang Wan and Shiyao Peng and Meina Song and Wei Lin and Yifan Zhu and Luu Anh Tuan},
+ booktitle = {Advances in Neural Information Processing Systems},
+ title = {Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction},
+ year = {2024}
+}
+
+
+@inproceedings{nips2024_3,
+ author = {Zhiyuan Hu and Chumin Liu and Xidong Feng and Yilun Zhao and See-Kiong Ng and Anh Tuan Luu and Junxian He and Pang Wei Koh and Bryan Hooi},
+ booktitle = {Advances in Neural Information Processing Systems},
+ title = {Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in LLMs},
+ year = {2024}
+}
+
+@inproceedings{nips2024_4,
+ author = {Xiaobao Wu and Thong Nguyen and Delvin Ce Zhang and William Yang Wang and Anh Tuan Luu},
+ booktitle = {Advances in Neural Information Processing Systems},
+ title = {FASTopic: Pretrained Transformer is a Fast, Adaptive, Stable, and Transferable Topic Model},
+ year = {2024}
+}
+
+@article{10.1016/j.eswa.2023.121419,
+author = {Wei, Jie and Hu, Guanyu and Yang, Xinyu and Luu, Anh Tuan and Dong, Yizhuo},
+title = {Learning facial expression and body gesture visual information for video emotion recognition},
+year = {2024},
+issue_date = {Mar 2024},
+publisher = {Pergamon Press, Inc.},
+address = {USA},
+volume = {237},
+number = {PA},
+issn = {0957-4174},
+url = {https://doi.org/10.1016/j.eswa.2023.121419},
+doi = {10.1016/j.eswa.2023.121419},
+journal = {Expert Syst. Appl.},
+month = feb,
+numpages = {14},
+keywords = {Video emotion recognition, Facial expression, Spatio-temporal features, Body joints, Gesture representation}
+}
+
+
+@ARTICLE{10321722,
+author={Li, Anran and Huang, Jiahui and Jia, Ju and Peng, Hongyi and Zhang, Lan and Tuan, Luu Anh and Yu, Han and Li, Xiang-Yang},
+journal={ IEEE Transactions on Mobile Computing },
+title={{ Efficient and Privacy-Preserving Feature Importance-Based Vertical Federated Learning }},
+year={2024},
+volume={23},
+number={06},
+ISSN={1558-0660},
+pages={7238-7255},
+abstract={ Vertical Federated Learning (VFL) enables multiple data owners, each holding a different subset of features about a largely overlapping set of data samples, to collaboratively train a global model. The quality of data owners’ local features affects the performance of the VFL model, which makes feature selection vitally important. However, existing feature selection methods for VFL either assume the availability of prior knowledge on the number of noisy features or prior knowledge on the post-training threshold of useful features to be selected, making them unsuitable for practical applications. To bridge this gap, we propose the Federated Stochastic Dual-Gate based Feature Selection (FedSDG-FS) approach. It consists of a Gaussian stochastic dual-gate to efficiently approximate the probability of a feature being selected. FedSDG-FS further designs a local embedding perturbation approach to achieve differential privacy for local training data. To reduce overhead, we propose a feature importance initialization method based on Gini impurity, which can accomplish its goals with only two parameter transmissions between the server and the clients. The enhanced version, FedSDG-FS++, protects the privacy for both the clients’ training data and the server's labels through Partially Homomorphic Encryption (PHE) without relying on a trusted third-party. Theoretically, we analyze the convergence rate, privacy guarantees and security analysis of our methods. Extensive experiments on both synthetic and real-world datasets show that FedSDG-FS and FedSDG-FS++ significantly outperform existing approaches in terms of achieving more accurate selection of high-quality features as well as improving VFL performance in a privacy-preserving manner. },
+keywords={Feature extraction;Privacy;Data models;Training data;Noise measurement;Training;Mobile computing},
+doi={10.1109/TMC.2023.3333879},
+url = {https://doi.ieeecomputersociety.org/10.1109/TMC.2023.3333879},
+publisher={IEEE Computer Society},
+address={Los Alamitos, CA, USA},
+month=jun}
+
+
+@article{article,
+author = {Jia, Meihuizi and Shen, Lei and Tuan, Luu and Chen, Meng and Xu, Jing and Liao, Lejian and Yuan, Shaozu and He, Xiaodong},
+year = {2024},
+month = {01},
+pages = {1-13},
+title = {MuJo-SF: Multimodal Joint Slot Filling for Attribute Value Prediction of E-Commerce Commodities},
+volume = {PP},
+journal = {IEEE Transactions on Multimedia},
+doi = {10.1109/TMM.2024.3407667}
+}
+
+@article{Wu_2024,
+   title={A survey on neural topic models: methods, applications, and challenges},
+   volume={57},
+   ISSN={1573-7462},
+   url={http://dx.doi.org/10.1007/s10462-023-10661-7},
+   DOI={10.1007/s10462-023-10661-7},
+   number={2},
+   journal={Artificial Intelligence Review},
+   publisher={Springer Science and Business Media LLC},
+   author={Wu, Xiaobao and Nguyen, Thong and Luu, Anh Tuan},
+   year={2024},
+   month=jan }
+@article{Zhao2024ExploringCL,
+  title={Exploring Clean Label Backdoor Attacks and Defense in Language Models},
+  author={Shuai Zhao and Anh Tuan Luu and Jie Fu and Jinming Wen and Weiqi Luo},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+  year={2024},
+  volume={32},
+  pages={3014-3024},
+  url={https://api.semanticscholar.org/CorpusID:270306572}
+}
+
+@article{unknown,
+author = {Zheng, yandan and Luu, Anh},
+year = {2024},
+month = {02},
+pages = {},
+title = {Incorporating Template-based Contrastive Learning into cognitively inspired, low resource relation extraction},
+doi = {10.21203/rs.3.rs-3956705/v1}
+}
+
+@ARTICLE{10668811,
+author={Li, Anran and Wang, Guangjing and Hu, Ming and Sun, Jianfei and Zhang, Lan and Tuan, Luu Anh and Yu, Han},
+journal={ IEEE Transactions on Mobile Computing },
+title={{ Joint Client-and-Sample Selection for Federated Learning via Bi-Level Optimization }},
+year={2024},
+volume={23},
+number={12},
+ISSN={1558-0660},
+pages={15196-15209},
+abstract={ Federated Learning (FL) enables massive local data owners to collaboratively train a deep learning model without disclosing their private data. The importance of local data samples from various data owners to FL models varies widely. This is exacerbated by the presence of noisy data that exhibit large losses similar to important (hard) samples. Currently, there lacks an FL approach that can effectively distinguish hard samples (which are beneficial) from noisy samples (which are harmful). To bridge this gap, we propose the joint Federated Meta-Weighting based Client and Sample Selection (FedMW-CSS) approach to simultaneously mitigate label noise and hard sample selection. It is a bilevel optimization approach for FL client-and-sample selection and global model construction to achieve hard sample-aware noise-robust learning in a privacy preserving manner. It performs meta-learning based online approximation to iteratively update global FL models, select the most positively influential samples and deal with training data noise. To utilize both the instance-level information and class-level information for better performance improvements, FedMW-CSS efficiently learns a class-level weight by manipulating gradients at the class level, e.g., it performs a gradient descent step on class-level weights, which only relies on intermediate gradients. Theoretically, we analyze the privacy guarantees and convergence of FedMW-CSS. Extensive experiments comparison against eight state-of-the-art baselines on six real-world datasets in the presence of data noise and heterogeneity shows that FedMW-CSS achieves up to 28.5% higher test accuracy, while saving communication and computation costs by at least 49.3% and 1.2%, respectively. },
+keywords={Training;Computational modeling;Data models;Noise measurement;Noise;Optimization;Servers},
+doi={10.1109/TMC.2024.3455331},
+url = {https://doi.ieeecomputersociety.org/10.1109/TMC.2024.3455331},
+publisher={IEEE Computer Society},
+address={Los Alamitos, CA, USA},
+month=dec}
+
+<<<<<<< 2015
+
+@InProceedings{10.1007/978-3-031-72989-8_5,
+author="Nguyen, Thong
+and Bin, Yi
+and Wu, Xiaobao
+and Dong, Xinshuai
+and Hu, Zhiyuan
+and Le, Khoi
+and Nguyen, Cong-Duy
+and Ng, See-Kiong
+and Tuan, Luu Anh",
+editor="Leonardis, Ale{\v{s}}
+and Ricci, Elisa
+and Roth, Stefan
+and Russakovsky, Olga
+and Sattler, Torsten
+and Varol, G{\"u}l",
+title="Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning",
+booktitle="Computer Vision -- ECCV 2024",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="77--98",
+abstract="Data quality stands at the forefront of deciding the effectiveness of video-language representation learning. However, video-text pairs in previous data typically do not align perfectly with each other, which might lead to video-language representations that do not accurately reflect cross-modal semantics. Moreover, previous data also possess an uneven distribution of concepts, thereby hampering the downstream performance across unpopular subjects. To address these problems, we propose a contrastive objective with a subtractive angular margin to regularize cross-modal representations in their effort to reach perfect similarity. Furthermore, to adapt to the non-uniform concept distribution, we propose a multi-layer perceptron (MLP)-parameterized weighting function that maps loss values to sample weights which enable dynamic adjustment of the model's focus throughout the training. With the training guided by a small amount of unbiased meta-data and augmented by video-text data generated by large vision-language model, we improve video-language representations and achieve superior performances on commonly used video question answering and text-video retrieval datasets.",
+isbn="978-3-031-72989-8"
+}
+
