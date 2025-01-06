@@ -1,11 +1,11 @@
 ---
-title: {SemRoDe:} Macro Adversarial Training to Learn Representations that are Robust to Word-Level Attacks
+title: 'SemRoDe: Macro Adversarial Training to Learn Representations that are Robust to Word-Level Attacks'
 publication_types:
   - Conference
 authors:
   - Brian Formento
   - Wenjie Feng
-  - Chuan-Sheng Foo
+  - Chuan Sheng Foo
   - Luu_Anh_Tuan
   - See-Kiong Ng
 
