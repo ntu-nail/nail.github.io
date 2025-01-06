@@ -18,6 +18,6 @@ draft: false
 featured: false
 tags:
   - ACM
-date: '2024-06'
+date: '2024-06-01T00:00:00Z'
 ---
 Link: https://dl.acm.org/doi/10.1145/3654947

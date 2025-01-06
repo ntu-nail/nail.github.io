@@ -1,5 +1,5 @@
 ---
-title: SemRoDe Macro Adversarial Training to Learn Representations that are Robust to Word-Level Attacks
+title: {SemRoDe:} Macro Adversarial Training to Learn Representations that are Robust to Word-Level Attacks
 publication_types:
   - Conference
 authors:
@@ -16,6 +16,6 @@ draft: false
 featured: false
 tags:
   - NAACL
-date: '2024-06'
+date: '2024-06-01T00:00:00Z'
 ---
 Link: https://aclanthology.org/2024.naacl-long.443/
