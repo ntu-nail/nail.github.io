@@ -1,5 +1,5 @@
 ---
-title: "{SoVAR}: Build Generalizable Scenarios from Accident Reports for Autonomous Driving Testing"
+title: "SoVAR: Build Generalizable Scenarios from Accident Reports for Autonomous Driving Testing"
 publication_types:
   - Conference
 authors:
